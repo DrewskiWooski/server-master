@@ -8,5 +8,5 @@ Region: NorthAmericaWest
 (Unzip the file in your mod folder)
 For example: C:\SteamLibrary\steamapps\common\7 Days To Die\Mods\Fluffy Panda AH64Jimbo
 https://www.nexusmods.com/7daystodie/mods/7732
-https://www.nexusmods.com/7daystodie/mods/2409
 https://www.nexusmods.com/7daystodie/mods/7545
+https://www.nexusmods.com/7daystodie/mods/7727
