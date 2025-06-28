@@ -1,8 +1,7 @@
 # Server Info:
-Server type: PVE
-To join run 7D2D without EAC.
-IP: syn.webredirect.org:27031
+ServerName: U.I.S. Modded/PVE
 Region: NorthAmericaWest
+PlayerCap: 8
 # server-modlist/dependencies
 https://7daystodiemods.com/fluffy-panda-ah64jimbo-deadwake/ 
 https://www.nexusmods.com/7daystodie/mods/7732
